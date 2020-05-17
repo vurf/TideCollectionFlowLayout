@@ -1,7 +1,7 @@
 # TideCollectionFlowLayout
 Repeated the animation from the Tide ios application 
 
-Infinite Collection 
+Infinite Collection
 Tide Flow Layout for CollectionView
 
 Sample And Origin
